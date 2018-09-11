@@ -1,0 +1,9 @@
+git commends 
+
+git branch 
+git checkout -b 
+git pull
+git push 
+git clone 
+git reset -- hard HEAD^^
+git log
